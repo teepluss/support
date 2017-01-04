@@ -37,7 +37,7 @@ class Stringy extends BaseStringy
      * explode
      *
      * @param      $delimiter
-     * @param int $limit
+     * @param null $limit
      * @return array
      */
     public function split($delimiter, $limit = null)
